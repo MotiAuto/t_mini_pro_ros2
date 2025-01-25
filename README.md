@@ -6,3 +6,6 @@ The ROS2 package for YD Lidar T-mini Pro.
 |OS|ROS2|
 |:--:|:--:|
 |Ubuntu24.04|Jazzy|
+
+# requirement
+Please install [YDLidar-SDK](https://github.com/YDLIDAR/YDLidar-SDK)
